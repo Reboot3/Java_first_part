@@ -1,0 +1,15 @@
+# pack-refs with: peeled fully-peeled sorted 
+728594e17dc71aa44ab6e0f7970cd4a6ba9156a2 refs/heads/day1
+696abe027231ce772d219106052c301742525913 refs/heads/day2
+73aaf17de2194a79f8ee1b9f211013c6bd27ebba refs/heads/day3
+2e7dc03d769d29d3a93665e64c983db4b37f86bd refs/heads/day4
+04583a3e520a0f0f07ef0ab0bde517f1cd25c177 refs/heads/day5
+f6a539ae634fb8a634469b706f12e136797c65ea refs/heads/day6
+3e5c12db7eff5abbef95aa073c47d042f3b68698 refs/heads/day7
+c3db354a118f5e580ec08a37d6d01c8ba4511866 refs/heads/day8
+613b50c9d0f140ab8d1c17ad27a59731d983d68b refs/heads/day9
+58e81fcfe5b58ad40446fdfb4e93cd78bcc6006d refs/heads/master
+1859a4a89690adb63d081ef2631c4c5db452236f refs/heads/pre-day8
+696abe027231ce772d219106052c301742525913 refs/pull/1/head
+5de03d9b96c1a6e970c13d8afa717e26c474fe5d refs/pull/2/head
+c69a62fcec541968423821fd0f23d9560eb3b020 refs/pull/3/head
